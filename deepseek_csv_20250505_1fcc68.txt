@@ -1,0 +1,1 @@
+kliento_vardas,kliento_pavarde,transporto_marke,transporto_modelis,pradzia,pabaiga,kaina
